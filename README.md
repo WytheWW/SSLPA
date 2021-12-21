@@ -11,4 +11,4 @@ During the similarity measure phase, the semantic similarity between neighbor no
 representation of the corresponding labels. During the propagation phase, nodes choose labels from their neighbors according to the preference rules. 
 A forgetting mechanism is adopted for filtering low frequency labels. In the final phase, nodes are divided into overlapping communities 
 with certain coefficients once the stop criterion is met.   
-## The code is still being improved, and the implementation process will be encapsulated to facilitate the implementation  
+# The code is still being improved, and the implementation process will be encapsulated to facilitate the implementation  
