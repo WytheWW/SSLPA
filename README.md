@@ -1,5 +1,5 @@
 # SSLPA
-Semantic Speaker-Listener Label Propagation Algorithm 
+#Semantic Speaker-Listener Label Propagation Algorithm \n
 This repository contains supplementary material (code and data) for the paper: "Identifying specific semantic communities based on label propagation" 
 The algorithm implementations require Python 3.x and the NetworkX library.
 The main process of SSLPA
